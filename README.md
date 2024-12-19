@@ -20,4 +20,4 @@ TalkSense is an Android application designed to monitor and control device volum
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/talksense.git
+git clone https://github.com/MatinDehghanian/talksense.git
